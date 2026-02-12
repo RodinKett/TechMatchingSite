@@ -3,5 +3,5 @@ Een Matching Site voor het vak Tech in Blok 3 Jaar 2 van CMD
 Team Leden: 
 Rodin Kettmann - 500950954
 Jada Sedoc
-Emilie Garcia van Dongen
+Emilie Garcia van Dongen - 500960336
 Tess Goossens
